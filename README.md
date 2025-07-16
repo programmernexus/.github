@@ -2,7 +2,7 @@
 
 Welcome to **ProgrammerNexus**, your ultimate hub for mastering programming and unlocking your potential in the world of technology! 🚀 We are a vibrant community and learning platform dedicated to empowering beginners and aspiring developers with the skills and confidence to succeed in coding.
 
-![ProgrammerNexus Banner](programmernexus-banner.png?text=ProgrammerNexus+Welcome) <!-- Placeholder for banner image -->
+![ProgrammerNexus Banner](profile/programmernexus-banner.png?text=ProgrammerNexus+Welcome) <!-- Placeholder for banner image -->
 
 ## 🌟 About Us
 
