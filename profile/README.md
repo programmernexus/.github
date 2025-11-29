@@ -309,9 +309,9 @@ Follow these simple steps to get started:
 ┌─────────────────────────────────────────────────────────────────┐
 │  Step 1: Visit our website → programmernexus.com                │
 │  Step 2: Join our Telegram community → t.me/programmernexus     │
-│  Step 3: Subscribe on YouTube → youtube.com/@programmernexus        │
+│  Step 3: Subscribe on YouTube → youtube.com/@programmernexus    │
 │  Step 4: Explore our GitHub repos → github.com/programmernexus  │
-│  Step 5: Start your first project! 🚀                           │
+│  Step 5: Start your first project!🚀                            │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
