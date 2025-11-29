@@ -13,7 +13,7 @@
 <!-- Dynamic Badges -->
 [![GitHub Organization](https://img.shields.io/badge/Organization-ProgrammerNexus-blueviolet?style=for-the-badge&logo=github)](https://github.com/programmernexus)
 [![Website](https://img.shields.io/badge/Website-Online-success?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.programmernexus.com/)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodingNexus)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@programmernexus)
 [![Telegram](https://img.shields.io/badge/Telegram-Join-blue?style=for-the-badge&logo=telegram)](https://t.me/programmernexus)
 
 <!-- Stats Badges -->
@@ -309,7 +309,7 @@ Follow these simple steps to get started:
 ┌─────────────────────────────────────────────────────────────────┐
 │  Step 1: Visit our website → programmernexus.com                │
 │  Step 2: Join our Telegram community → t.me/programmernexus     │
-│  Step 3: Subscribe on YouTube → youtube.com/@CodingNexus        │
+│  Step 3: Subscribe on YouTube → youtube.com/@programmernexus        │
 │  Step 4: Explore our GitHub repos → github.com/programmernexus  │
 │  Step 5: Start your first project! 🚀                           │
 └─────────────────────────────────────────────────────────────────┘
